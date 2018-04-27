@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.DataAccess.SQL", "My
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.DataAccess.InMemory", "MyShop.DataAccess.InMemory\MyShop.DataAccess.InMemory.csproj", "{B958EB06-A052-4F2D-A186-9CF707884898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.UI", "MyShop.UI\MyShop.UI.csproj", "{78DC6E8A-CAF1-4261-8EE9-459F7A1D5CA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.WebUI", "MyShop.UI\MyShop.WebUI.csproj", "{78DC6E8A-CAF1-4261-8EE9-459F7A1D5CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.UI.Tests", "MyShop.UI.Tests\MyShop.UI.Tests.csproj", "{A622111A-167E-42B3-8DF6-D6C47AB34B34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.WebUI.Tests", "MyShop.UI.Tests\MyShop.WebUI.Tests.csproj", "{A622111A-167E-42B3-8DF6-D6C47AB34B34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
